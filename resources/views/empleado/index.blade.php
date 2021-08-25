@@ -1,4 +1,3 @@
-Mostar lista de empleados
 <table class="table table-light">
     
     <thead class="thead-light">
